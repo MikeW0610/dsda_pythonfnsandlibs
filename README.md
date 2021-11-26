@@ -21,5 +21,7 @@ There is a video walk-through of this on Moodle.
 The second activity is called `late_penalty.ipynb`
 Follow this through and implement the missing functionality.
 
+This also uses a spreadsheet file in the repository with some student marks.
+
 
 
